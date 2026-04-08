@@ -49,11 +49,12 @@ Analyze customer data to identify patterns and factors leading to customer churn
 
 ---
 
-## 📊 Project Files
+## 📁 Project Files
 
-* Python analysis notebook (.ipynb)
-* Dataset (.csv)
-* SQL queries (if applicable)
+* `TCA.ipynb` → Complete data analysis and EDA
+* `Customer Churn.csv` → Dataset used for analysis
+* `customer_behavior_sql_queries.sql` → SQL queries for data extraction (if applicable)
+* `Teco Customer Churn Analysis.pdf` → Business report and summary insights
 
 ---
 
